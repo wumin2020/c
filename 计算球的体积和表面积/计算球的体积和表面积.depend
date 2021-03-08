@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612691344 source:e:\codeblock\codeblocks\源文件\计算球的体积和表面积\main.c
+	<stdio.h>
+	<stdlib.h>
+
